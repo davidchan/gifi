@@ -1,5 +1,19 @@
 # gifi
 
+Forked to support older Node versions
+
+## Installation
+
+```
+$ cd dir/of/cloned/gifi
+$ nvm use 0.12.9
+$ npm install -g .
+```
+
+
+
+----
+
 <a href="https://twitter.com/sindresorhus/status/702220589419753472"><img src="media/motivation.png" width="584"></a>
 
 So, it works exactly as advertised, watch GIFs right in your terminal while `npm install` is running.
